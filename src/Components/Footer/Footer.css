@@ -1,0 +1,27 @@
+footer{
+    margin-top: 15px;
+    border-bottom: #cccccc;
+}
+.foot-panel1{
+    width: 100%;
+    height: 495px;
+    background: linear-gradient(180deg, #fde1ff 0%, #e1ffea22 60%);;
+    color: #454545;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+
+}
+ul{
+    margin-top: 20px;
+}
+ul p{
+    font-size: 1rem;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    padding-top: 3px;
+    
+}
